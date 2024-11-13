@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I'm interested in math and making video games and cool projects.
+I'm third-year cs student at SFU. I'm interested in math and making video games and cool projects.
 
 
 ## 🌐 Socials:
