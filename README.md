@@ -1,4 +1,4 @@
-## Well Hello There
+## Hello 👋 
 
 # About Me:
 I'm a third-year cs student at SFU. I'm interested in math and making video games and cool projects. I'm also open to exploring different realms of the computer science world.
